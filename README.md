@@ -87,7 +87,7 @@ Fehlermeldungen, Fragen und Verbesserungsvorschläge bitte an **[iphysioclock@gm
 
 ## 🗓️ Versionierung und Release-Status
 
-- **Aktuelle Entwicklungsbasis:** `3.0.0 (Build 19)`
+- **Aktuelle Entwicklungsbasis:** `3.0.0 (Build 25)`
 - **App Store:** Kostenlose Veröffentlichung geplant; noch nicht eingereicht oder freigegeben.
 - **Website:** Mehrsprachig unter GitHub Pages vorbereitet.
 - **Offene Freigabepunkte:** Finale Tests auf iPhones, App-Store-Metadaten und Screenshots, vollständige Überprüfung von Rechtstexten und Barrierefreiheit.
