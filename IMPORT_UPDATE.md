@@ -1,0 +1,1 @@
+Website-Update: Importhinweise in Deutsch, Englisch, Französisch und Italienisch angepasst. CSV und JSON erzeugen neue Sets und überschreiben keine Daten. Dateien einschliesslich der vier Sprachordner in GitHub Pages hochladen.
