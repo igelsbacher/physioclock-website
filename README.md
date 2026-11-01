@@ -67,16 +67,6 @@ physioclock-website/
 └── README.md
 ```
 
-## 🚀 Website mit GitHub Pages veröffentlichen
-
-1. Die Website-Dateien in das öffentliche Repository [`igelsbacher/physioclock-website`](https://github.com/igelsbacher/physioclock-website) hochladen. Die Sprachordner `de`, `en`, `fr` und `it` unverändert beibehalten.
-2. Unter **Settings → Pages** die Veröffentlichung über **Deploy from a branch** aktivieren.
-3. Branch **main**, Verzeichnis **/(root)** auswählen und speichern.
-4. Die [Website](https://igelsbacher.github.io/physioclock-website/) sowie die vier Sprachseiten testen.
-5. Nach Änderungen die Links zwischen Startseite, Hilfe, News, Datenschutz und Kontakt in allen Sprachen überprüfen.
-
-> Dieses Repository dient dem Website-Hosting. Die Installation der nativen iPhone-App erfolgt während der Entwicklung separat über Xcode. Aus dem Website-Repository kann die iOS-App nicht gebaut werden.
-
 ## 🔐 Datenschutz und Datensicherung
 
 PhysioClock ist für lokale Trainingsplanung und Trainingsaufzeichnungen konzipiert. Die App speichert unter anderem ausgewählte Übungen, individuelle Set-Namen, Einstellungen und Trainingseinträge auf dem Gerät. Die Sicherung erfolgt manuell mittels JSON-Datei. Ein automatischer Cloud-Abgleich ist derzeit nicht vorgesehen.
