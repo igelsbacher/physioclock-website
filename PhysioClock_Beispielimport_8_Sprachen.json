@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-11-01T13:45:16Z",
+  "exercises": [
+    {
+      "id": "f5e3edd3-ad61-4eb1-9d04-b8ce7d830c0c",
+      "name": "Nacken – Kinn zurückziehen",
+      "seconds": 180,
+      "bodyPart": "Hals"
+    },
+    {
+      "id": "9b6a18ef-84db-4a30-8ed4-fed5e8a3548d",
+      "name": "Shoulder circles",
+      "seconds": 120,
+      "bodyPart": "Schultern"
+    },
+    {
+      "id": "3ff78411-0f28-4b89-89d3-765c2b926ed0",
+      "name": "Bascule du bassin en position allongée",
+      "seconds": 180,
+      "bodyPart": "Becken"
+    },
+    {
+      "id": "f1bfdb8e-f8ef-4891-b545-e020a51c0d18",
+      "name": "Contrazione del quadricipite",
+      "seconds": 120,
+      "bodyPart": "Oberschenkel"
+    },
+    {
+      "id": "acfb4d7a-3a0a-4fd5-8875-489572da06b3",
+      "name": "Círculos con los hombros",
+      "seconds": 120,
+      "bodyPart": "Schultern"
+    },
+    {
+      "id": "611379d0-2f2d-4c5b-a4a2-00d0de36efdc",
+      "name": "Círculos com os ombros",
+      "seconds": 120,
+      "bodyPart": "Schultern"
+    },
+    {
+      "id": "1fe38681-a160-4f70-a96a-5195771cfee8",
+      "name": "Kuzungusha mabega",
+      "seconds": 120,
+      "bodyPart": "Schultern"
+    },
+    {
+      "id": "86e33d50-f25c-4669-9b9e-a9ec55326030",
+      "name": "어깨 돌리기",
+      "seconds": 120,
+      "bodyPart": "Schultern"
+    }
+  ],
+  "trainingRecords": [],
+  "customCatalog": [],
+  "trainingSets": [
+    {
+      "id": "62c2dd32-4c5d-4134-b325-376819878902",
+      "name": "Demo – 4 Sprachen",
+      "exercises": [
+        {
+          "id": "f5e3edd3-ad61-4eb1-9d04-b8ce7d830c0c",
+          "name": "Nacken – Kinn zurückziehen",
+          "seconds": 180,
+          "bodyPart": "Hals"
+        },
+        {
+          "id": "9b6a18ef-84db-4a30-8ed4-fed5e8a3548d",
+          "name": "Shoulder circles",
+          "seconds": 120,
+          "bodyPart": "Schultern"
+        },
+        {
+          "id": "3ff78411-0f28-4b89-89d3-765c2b926ed0",
+          "name": "Bascule du bassin en position allongée",
+          "seconds": 180,
+          "bodyPart": "Becken"
+        },
+        {
+          "id": "f1bfdb8e-f8ef-4891-b545-e020a51c0d18",
+          "name": "Contrazione del quadricipite",
+          "seconds": 120,
+          "bodyPart": "Oberschenkel"
+        }
+      ]
+    }
+  ]
+}
