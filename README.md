@@ -1,9 +1,9 @@
-# PhysioClock 3.3 – Website und Lernzentrum
+# PhysioClock website — DE / EN / FR / IT
 
-Kompletter bisheriger Website-Stand mit sechs Lernmodulen pro Sprache. Neu: Befinden & Verlauf mit fünf Optionen und interaktiver Verlaufsvorschau unter de/befinden.html, en/befinden.html, fr/befinden.html und it/befinden.html.
+Upload the contents of this ZIP to the existing GitHub Pages repository. Remove the old `es/` and `pt/` folders and the six-language CSV/JSON examples: uploading alone does not delete them. Root `index.html` remains the German entry point. New `symbole.html` pages are linked from Help, learning centre and training instructions. Homepages include a five-second decorative movement badge respecting reduced motion. Feedback links open an editable email; nothing is sent automatically.
 
-Die Vorschau verwendet ausschliesslich generierte Beispieldaten; Eingaben verändern nur die geöffnete Seite. Keine Verbindung zur App, keine Speicherung und kein Upload der Beispielangaben. Kurve und Liste reagieren auf 7/30/90 Tage. Die native App enthält zusätzlich einen Monatskalender und echte lokale Einträge.
+Parallel to app 3.16.0 Build 46. No analytics or tracking added.
 
-index.html öffnen oder alle Dateien direkt in das bestehende Repository igelsbacher/physioclock-website übernehmen und committen. Kein zusätzlicher übergeordneter Ordner. Die Live-Website wurde hier nicht geändert.
+New `routinen.html` pages explain all nine organisational features in all four languages. This website does not execute the native app timer, widgets or speech.
 
-App-Version 3.3 Build 30 benötigt noch Xcode-Build und Gerätetests. Subjektive Befindenseinträge verändern weder Minutenstatistik noch Trainingsziel und belegen keine medizinische Wirkung.
+New: `uebungen.html` provides all 100 illustrated entries in ten expandable groups with search. `vorlagen.html` provides three independent in-memory slider configurations and a selected-set JSON download compatible with the app. `exercise-art/` contains original schematics, not copied NHS/AAOS drawings. The sliders are a mechanical selection/time allocation tool and do not use symptoms or health data.
