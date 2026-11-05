@@ -21,6 +21,7 @@
  if(typeof module!=='undefined')module.exports={normalized,candidates,generate};
  if(typeof document==='undefined')return;
  const dataNode=document.querySelector('#catalog-data');if(!dataNode)return;
+ const artworkBase=new URL('exercise-art/', document.currentScript.src).href;
  const lib=JSON.parse(dataNode.textContent),tr=JSON.parse(document.querySelector('#catalog-strings').textContent),language=document.documentElement.lang;
  const txt=key=>tr[key]||key;
  const el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
@@ -32,7 +33,7 @@
   const frames=el('div',undefined,'exercise-frames');
   for(let i=0;i<x.frames;i++){
    const figure=el('figure');const label=txt(x.frames===1?'guide.positionHold':i===0?'guide.start':'guide.movement');
-   const image=el('img');image.src='../exercise-art/'+x.key+'-'+i+'.svg';image.alt=x.names[language]+' – '+label;image.loading='lazy';image.width=220;image.height=220;
+   const image=el('img');image.src=artworkBase+x.key+'-'+i+'.svg';image.alt=x.names[language]+' – '+label;image.loading='lazy';image.width=220;image.height=220;
    figure.append(image,el('figcaption',label));frames.append(figure);
   }
   content.append(frames,el('p',txt('cue.'+x.cue)),el('p',txt('guide.schematic'),'small-notice'));
