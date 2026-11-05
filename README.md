@@ -1,3 +1,11 @@
+# Aktuell: Kostenlose Basis & PhysioClock Plus
+
+Parallel zu App 3.19.0 Build 51. Ein kostenloses eigenes Set, einmalige Plus-Freischaltung vorbereitet; kein Abo und keine Werbung. Details, Upload und Prüfungen: **BASIS_PLUS_UPDATE.md**. Der Bilderordner bleibt unverändert. Die Wahl Einfach/Regulär bleibt der erste Einstieg.
+
+---
+
+Bisherige Dokumentation:
+
 # Aktuell: Website mit Einfach / Regulär
 
 Die neue Startseite bündelt die Inhalte unter zwei Bereichen. Auf allen aktuellen Seiten ist dasselbe vollständige Menü oben erreichbar. Veröffentlichung und Prüfergebnisse: **NAVIGATION_NEU.md**. Der unveränderte Bilderordner muss bei diesem Update nicht nochmals hochgeladen werden.
