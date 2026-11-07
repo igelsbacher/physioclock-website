@@ -1,0 +1,9 @@
+Utilisation et confidentialité
+
+PhysioClock vous aide à minuter vos propres routines de mouvement. Choisissez des exercices et des durées adaptés à vos capacités. L’application ne remplace pas un avis ou un traitement médical.
+
+Vos données d’entraînement et vos entrées facultatives de ressenti sont enregistrées localement. Si vous activez la synchronisation iCloud, les données de l’application sont aussi stockées dans la base CloudKit privée de votre compte Apple. PhysioClock n’utilise ni publicité ni suivi publicitaire.
+
+Cela n’active ni la synchronisation iCloud, ni Apple Health, ni les notifications, ni les widgets. Ces fonctions restent facultatives et s’activent séparément.
+
+Vous acceptez les consignes liées et prenez connaissance de l’information sur la confidentialité. Les versions, la langue, la version de l’app et l’heure de l’appareil sont enregistrées. Cela ne certifie pas la lecture de chaque mot.

@@ -1,0 +1,9 @@
+Use & Privacy
+
+PhysioClock helps you time your own movement routines. Choose exercises and durations suited to your abilities. The app does not replace medical advice or treatment.
+
+Your training data and optional wellbeing entries are stored locally. If you enable iCloud sync, app data is also stored in your Apple Account’s private CloudKit database. PhysioClock uses no advertising or advertising tracking.
+
+This does not enable iCloud sync, Apple Health, notifications or widgets. These features remain optional and are enabled separately.
+
+You accept the linked usage notices and acknowledge the privacy information. These text versions, language, app version and device time are recorded. This does not certify that you read every word.

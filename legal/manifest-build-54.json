@@ -1,0 +1,78 @@
+{
+  "appVersion": "3.21.0",
+  "build": 54,
+  "documents": [
+    {
+      "kind": "usage",
+      "version": "1.0",
+      "language": "de",
+      "effectiveFrom": "2026-11-06",
+      "title": "Hinweise zur Nutzung",
+      "textSHA256": "c2909168254cb8bee921540a674ae32b7ecf49702975dd16e6dd2fc8ed1b1764",
+      "path": "legal/usage/1.0/de.txt"
+    },
+    {
+      "kind": "usage",
+      "version": "1.0",
+      "language": "en",
+      "effectiveFrom": "2026-11-06",
+      "title": "Usage guidelines",
+      "textSHA256": "f1bb4d58e3c4f17ef282e78ad5e4a0801df2aecdac060b55396adef47cc78ef6",
+      "path": "legal/usage/1.0/en.txt"
+    },
+    {
+      "kind": "usage",
+      "version": "1.0",
+      "language": "fr",
+      "effectiveFrom": "2026-11-06",
+      "title": "Conseils d’utilisation",
+      "textSHA256": "65d78ec260b45dc2a3d453c7bd953429d7e26682ba30084ad166ce8931b5ebf6",
+      "path": "legal/usage/1.0/fr.txt"
+    },
+    {
+      "kind": "usage",
+      "version": "1.0",
+      "language": "it",
+      "effectiveFrom": "2026-11-06",
+      "title": "Indicazioni per l’uso",
+      "textSHA256": "c9a9b92da942c22aeb3bf02baa4b60e5c2ad7bea427217f2be9c7b440a8ad8ef",
+      "path": "legal/usage/1.0/it.txt"
+    },
+    {
+      "kind": "privacy",
+      "version": "1.4",
+      "language": "de",
+      "effectiveFrom": "2026-11-07",
+      "title": "Datenschutz",
+      "textSHA256": "28ec8ddb95d9e750f7ef318c7eb01ce082edabb16289fa03ba3001823ab01555",
+      "path": "legal/privacy/1.4/de.txt"
+    },
+    {
+      "kind": "privacy",
+      "version": "1.4",
+      "language": "en",
+      "effectiveFrom": "2026-11-07",
+      "title": "Privacy",
+      "textSHA256": "71ab7f0a58190365578609f135d28fb2cfcb5b251a8f2c5fa4efd7ffb1f9f610",
+      "path": "legal/privacy/1.4/en.txt"
+    },
+    {
+      "kind": "privacy",
+      "version": "1.4",
+      "language": "fr",
+      "effectiveFrom": "2026-11-07",
+      "title": "Confidentialité",
+      "textSHA256": "906b9db53e6db014c1b01af0df973e1b7125a618db78bc49b1561e0f77e6c03a",
+      "path": "legal/privacy/1.4/fr.txt"
+    },
+    {
+      "kind": "privacy",
+      "version": "1.4",
+      "language": "it",
+      "effectiveFrom": "2026-11-07",
+      "title": "Privacy",
+      "textSHA256": "589838b4aa0bfeb36c836a4d10e710bc2c736469b21b24895b7d48ddab5cf861",
+      "path": "legal/privacy/1.4/it.txt"
+    }
+  ]
+}

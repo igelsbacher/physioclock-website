@@ -1,0 +1,57 @@
+Das Wichtigste in Kürze
+
+Stand: 7. November 2026 · Version 1.4
+
+Deine Trainingsdaten bleiben lokal verfügbar. Der iCloud-Abgleich ist freiwillig. PhysioClock verwendet keine Werbung und kein Werbetracking. Die Bestätigung der Nutzungshinweise ist keine pauschale Einwilligung in optionale Datenverarbeitungen.
+
+Verantwortlicher und Kontakt
+
+Verantwortlich für PhysioClock und die begleitende Website ist Heinz Josef Igelsbacher. Datenschutz und Entwicklerkontakt: dev.igelsbacher@icloud.com. App-Support: iphysioclock@gmail.com.
+
+Daten und Verwendungszwecke
+
+Die App verarbeitet deine Übungen, Sets, Trainingsdauer und Verlauf, Ziele, Wochenplanung, Favoriten, Einstellungen und Erinnerungszeiten, um Training zu organisieren und Fortschritt darzustellen. Freiwillige Befindenseinträge und Notizen dienen deiner persönlichen Übersicht. Daraus werden keine Diagnosen oder medizinischen Empfehlungen erstellt. Es gibt kein eigenes PhysioClock-Benutzerkonto.
+
+Freitext und Befinden
+
+Übungsnamen, Set-Namen und Notizen können persönliche oder gesundheitsbezogene Angaben enthalten. Trage nur ein, was du für deine Übersicht benötigst, und vermeide Angaben über andere Personen. Freitext wird wie die übrigen App-Daten gespeichert und bei aktiviertem Abgleich synchronisiert; JSON-Exporte können diese Angaben enthalten. Die Eingabe ist keine Zustimmung zu Werbung, Forschung oder einer medizinischen Auswertung.
+
+Freiwillige iCloud-Synchronisation
+
+Bei aktiviertem Abgleich werden Übungen, Sets, Verlauf, Befinden und Notizen, Ziele, Wochenplanung, Favoriten, Trainingseinstellungen und Erinnerungszeiten in der privaten CloudKit-Datenbank deines Apple Accounts gespeichert und zwischen deinen Geräten abgeglichen. Für die Konfliktauflösung nutzt die App Änderungszeitpunkte und eine erzeugte Gerätekennung. Es gibt keinen eigenen PhysioClock-Server für diese Daten. Ausschalten stoppt den App-Abgleich und löscht vorhandene Cloud-Daten nicht. Gerätebackups über iOS oder iCloud sind davon getrennt und hängen von deinen Apple-Einstellungen ab.
+
+Apple Health, Mitteilungen und Anzeigen
+
+Apple Health wird nur nach separater Freigabe für die Anzeige der heutigen Schritte gelesen. PhysioClock schreibt keine Health-Daten und übernimmt die gelesene Schrittzahl nicht in seinen Verlauf, Export oder App-iCloud-Abgleich. Lokale Mitteilungen benötigen eine Gerätefreigabe. Optionale Widgets verwenden lokal Trainingsminuten, Zeitziel und Aktualisierungszeit. Live-Aktivitäten zeigen Restzeit und Status; diese können auf dem Sperrbildschirm sichtbar sein. Sie enthalten keine Befindensnotizen oder Übungsnamen.
+
+Speicherung, Löschung und Export
+
+Lokale Inhalte bleiben gespeichert, bis du sie löschst oder die App samt lokalen Daten entfernst; vorhandene Backups und Cloud-Kopien sind davon getrennt. Einträge lassen sich in den jeweiligen Ansichten verwalten. „Alle Trainingsdaten löschen“ entfernt Trainingsinhalte, ersetzt aber keine vollständige Löschung aller Einstellungen, Cloud-Daten oder Sicherungen. Bei aktivem Abgleich können Löschungen beim nächsten erfolgreichen Abgleich auf andere Geräte übertragen werden. Cloud-Daten verwaltest du zusätzlich in den iCloud-Einstellungen. Exportdateien musst du separat löschen und sicher aufbewahren. Der JSON-Import legt ein neues Set an und stellt nicht sämtliche Daten wieder her.
+
+Website und freiwilliger Support
+
+Die Website verwendet keine eigenen Werbe- oder Analysetracker und liest keine App-Trainingsdaten. GitHub Pages protokolliert bei Besuchen IP-Adressen für Sicherheitszwecke. Externe Links öffnen Angebote mit eigenen Datenschutzhinweisen. Feedback öffnet einen bearbeitbaren E-Mail-Entwurf mit App-Version, Build, iOS-Version und Geräteart; Trainings- oder Health-Daten werden nicht automatisch angehängt. Erst beim eigenen Senden erhält der Support Nachricht und Absenderadresse. Bitte sende keine Gesundheitsdaten. Support-Nachrichten werden zur Bearbeitung und gegebenenfalls erforderlichen Dokumentation aufbewahrt, solange dies dafür oder aufgrund gesetzlicher Pflichten erforderlich ist.
+
+Dienstleister, Ausland und Sicherheit
+
+Apple stellt iCloud, Health und die Geräteplattform bereit; GitHub stellt die Website bereit. Apple und GitHub beschreiben internationale Verarbeitungen, insbesondere auch in den USA, in ihren Datenschutzhinweisen und erläutern Schutzmechanismen wie Standardvertragsklauseln beziehungsweise anwendbare Datenschutzrahmen. PhysioClock bietet keine Auswahl oder Zusicherung eines ausschliesslichen Speicherorts in der Schweiz oder EU. Lokale Daten nutzen die Schutzmechanismen des Geräts; die App implementiert keine zusätzliche eigene Ende-zu-Ende-Verschlüsselung. Schütze Geräte, Apple Account und exportierte Dateien.
+
+Deine Rechte und freiwillige Freigaben
+
+Je nach anwendbarem Datenschutzrecht bestehen insbesondere Rechte auf Auskunft, Berichtigung, Löschung, Datenherausgabe sowie gegebenenfalls Einschränkung oder Widerspruch und Beschwerde bei einer zuständigen Datenschutzbehörde. Kontaktiere dafür den Entwickler. Für ausschliesslich auf deinem Gerät oder in deinem privaten Apple Account liegende Inhalte hat der Entwickler keine zentrale Kopie zur Bearbeitung deiner Anfrage. Optionale Funktionen kannst du in der App beziehungsweise den Systemeinstellungen deaktivieren; bereits erfolgte Verarbeitungen und bestehende Kopien werden dadurch nicht automatisch rückgängig gemacht. Soweit die DSGVO anwendbar ist, erfolgt die notwendige Bereitstellung auf Grundlage der Vertragserfüllung, freiwillige freigabepflichtige Verarbeitung auf Grundlage der Einwilligung und notwendiger Support beziehungsweise Sicherheit auf Grundlage berechtigter Interessen oder gesetzlicher Pflichten, soweit einschlägig.
+
+Erststart und Änderungen
+
+Beim ersten Start werden Nutzungshinweise und ein Link zu dieser Erklärung angezeigt. Akzeptiert werden die Nutzungshinweise; die Datenschutzhinweise werden zur Kenntnis genommen. Die App speichert Bestätigung und Zeitpunkt lokal und überträgt diese nicht über ihren iCloud-Abgleich. Damit werden keine optionalen Funktionen freigeschaltet. Die Hinweise bleiben unter Hilfe & Informationen zugänglich. Wesentliche Änderungen werden hier mit neuem Datum veröffentlicht; frühere Fassungen bleiben verlinkt.
+
+Einmaliger Plus-Kauf über Apple
+
+Der optionale Plus-Kauf wird mit Apple StoreKit abgewickelt. Apple verarbeitet die Zahlung und den App-Store-Account. PhysioClock prüft auf dem Gerät die von StoreKit verifizierten Kaufberechtigungen für Freischaltung und Wiederherstellung. Es gibt dafür keinen eigenen Zahlungsserver und keine Erfassung von Kartendaten durch PhysioClock. Der Kaufstatus ist nicht Teil der Trainingsbackups oder des privaten App-CloudKit-Abgleichs. Für die Abwicklung gelten ergänzend Apples Bedingungen und Datenschutzhinweise.
+
+Lokale Bestätigungen und Textarchiv
+
+Unter Hilfe → Datenschutz & Bestätigungen speichert die App bestätigte Nutzungshinweise und die Kenntnisnahme der Datenschutzhinweise mit Textfassung, Prüfsumme, Sprache, App-Version, Build, Gerätezeit und Zeitzone lokal. Frühere Bestätigungen werden nur mit den tatsächlich vorhandenen Angaben übernommen. Das Protokoll enthält keine Trainings- oder Befindensdaten, aktiviert keine optionalen Freigaben und wird nicht über den App-iCloud-Abgleich oder Trainingsbackups übertragen. Es ist von automatischen Gerätebackups ausgeschlossen. Du kannst es separat exportieren und löschen; exportierte Kopien bleiben an ihrem Speicherort. Bei App-Löschung oder Geräteverlust kann es verloren gehen. Gerätezeit und Prüfsumme sind kein unabhängiger Identitäts- oder Zeitnachweis.
+
+Synchronisationsmodus und Geräteaktivität
+
+Bei aktivierter Synchronisation kannst du je Gerät „Immer“ oder „Manuell“ wählen. „Immer“ gleicht beim Öffnen, bei der Rückkehr in den Vordergrund und während der Nutzung ab. „Manuell“ überträgt Trainingsdaten nur nach „Jetzt synchronisieren“. In beiden Modi werden zur Startwarnung automatisch eine zufällige lokale Installationskennung, der allgemeine Gerätetyp (iPhone/iPad), der Vordergrundstatus und CloudKit-Änderungszeiten in deiner privaten iCloud-Datenbank verarbeitet. Es werden kein persönlicher Gerätename und kein Trainingsinhalt in diese Aktivitätsmeldungen aufgenommen. Die Kennung wird nicht mit Trainingsbackups übertragen. Die Statusdatei enthält den letzten Status statt eines Aktivitätsverlaufs; alte Cloud-Statusdatensätze können bis zur Löschung der Cloud-Daten bestehen bleiben. Eine Aktivmeldung gilt nach 150 Sekunden ohne Lebenszeichen als abgelaufen. Beim Wechsel in den Hintergrund wird nach Möglichkeit inaktiv gemeldet; beim Ausschalten wird die eigene Cloud-Aktivmeldung nach Möglichkeit entfernt. Die Warnung benötigt Verbindung und Unterstützung auf beiden Geräten, ist keine Sperre und kein unabhängiger Nutzungsnachweis. Laufende Timer und das lokale Bestätigungsprotokoll werden weiterhin nicht synchronisiert.
